@@ -237,7 +237,7 @@ function create_config( )
     "toPhoto_By_Reply",
     "inPm",
     "autoleave_Super",
-    "black",
+    "fire",
     "echo",
     "terminal",
     "sudoers",
